@@ -1,0 +1,27 @@
+.background{
+    background-color: #C4A484;
+    
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 230px;
+    height: 200px;
+    
+}
+.photo{
+    display: inline-block;
+    border: 1px solid black;
+    margin: 5px;
+    margin-inline-start: 20px;
+}
+.photo .description{
+    padding: 10px;
+    text-align: center;
+    width: 200px;
+}
+.photo:hover{
+    background-color:beige;
+
+}
